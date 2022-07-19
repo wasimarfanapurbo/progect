@@ -1,0 +1,200 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 800px;
+}
+
+/* start header arria */
+
+.bannar-arria {
+    width: 100%;
+    height: 669px;
+    background-image: url(images/donation3.jpg);
+
+    background-size: cover;
+    background-position: center;
+}
+
+.header {
+    width: 70%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-top: 15%;
+    padding-left: 320px;
+
+
+
+
+}
+
+.batton {
+    text-decoration: none;
+    padding: 15px 50px;
+    background-color: blue;
+    color: white;
+    margin-top: 150px;
+
+
+}
+
+/* end header arria */
+
+/* start prich-bar arria */
+
+
+.prich-bar {
+    width: 70%;
+    text-align: center;
+    margin: 100px auto;
+
+
+}
+
+.prich2 {
+    display: flex;
+    margin: 0px;
+    font-size: 50px;
+
+}
+
+.prich2 h3 {
+    margin: 50px 70px;
+
+}
+
+.boder {
+    border: 2px solid red;
+    background-color: lightpink;
+}
+
+
+
+/* end  prich- bar arria */
+/* start donet plan arria */
+
+#donate-section {
+    width: 70%;
+    height: 500px;
+    align-items: center;
+    margin: 0 auto;
+
+}
+
+
+
+
+.donation-title {
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    padding-top: 50px;
+    padding-left: 15%;
+
+
+}
+
+
+
+.donation-section {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+.donation-section img h2 p {
+    margin: 5px;
+    text-align: center;
+}
+
+.donate-plan-1 {
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    background-color: aqua;
+    text-align: left;
+
+
+
+
+
+}
+
+.donate-plan-2 {
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    background-color: aqua;
+    text-align: left;
+    margin: 10px;
+
+
+
+}
+
+.donate-plan-3 {
+    width: 30%;
+    height: 300px;
+    display: inline-block;
+    background-color: aqua;
+    text-align: left;
+    border: 5px;
+
+
+
+
+}
+
+
+/* ends donate plan section arria */
+
+
+/* start here subcriber section arria */
+
+.subcriber {
+    height: 300px;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.update {
+    padding-top: 50px;
+}
+
+.subcriber input {
+    font-size: 20px;
+
+}
+
+/* end hete subcriber section arria */
+/* start here footer section arria */
+
+.footer-section {
+    width: 100%;
+    height: 200px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: 70px;
+    margin-bottom: -30px;
+
+}
+
+/* end here footer section arria */
